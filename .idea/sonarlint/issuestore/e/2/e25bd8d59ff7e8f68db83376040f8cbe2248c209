@@ -1,0 +1,10 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¾ÚÏáÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àí¥¢
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+D
+java:S1874".Remove this use of "Assert"; it is deprecated.(×þ­á
+A
+java:S5960"+Remove this assertion from production code.(×þ­á
